@@ -1,4 +1,4 @@
-# Repository Name
+# Generic Code Snippets
 
 This repository is to store the code snippets related to tips and best practices which is used commonly for programming related work.
 
