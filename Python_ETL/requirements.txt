@@ -1,0 +1,4 @@
+pandas
+snowflake-snowpark-python
+pyodbc
+python-dotenv
